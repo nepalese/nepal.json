@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "manifest": {
+  },
+  "data": {
+    "newspapers" : {
+      "daily": [
+        {
+          "name": "Kantipur National Daily",
+          "name/ne": "कान्तिपुर राष्ट्रिय दैनिक",
+          "publisher": "Kantipur Media Group",
+          "publisher/ne": "कान्तिपुर मिडिया ग्रुप"
+          "price": 10,
+          "pages" : 24
+          "established": ""
+        }
+      ]
+    }
+  }
+}
