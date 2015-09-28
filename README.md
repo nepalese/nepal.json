@@ -17,11 +17,11 @@ Each file will contain three sections as follows:
 - can be both scalar of object
 - if scalar will follow X.Y.Z format
 - if object will contain 
-    {
-        code: "X.Y.Z",
-        name: "<some-version-name>",
-        description: "<some-version-description>"
-    }
+        {
+            code: "X.Y.Z",
+            name: "<some-version-name>",
+            description: "<some-version-description>"
+        }
 #### Manifest
 Manifest will describe meta parameters related to the data file.
 #### Data
