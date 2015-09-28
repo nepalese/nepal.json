@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest": {
   },
   "data": {
     "newspapers" : {
-      "daily": [
+      "dailies": [
         {
           "name": "Kantipur National Daily",
           "name/ne": "कान्तिपुर राष्ट्रिय दैनिक",
