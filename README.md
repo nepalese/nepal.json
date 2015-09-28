@@ -2,7 +2,7 @@
 The Nepal JSON Files
 
 ## Background
-    I always wondered why somebody doesn't do something about that. Then I realized I was somebody. - __Lily Tomlin__
+__I always wondered why somebody doesn't do something about that. Then I realized I was somebody.__ - _Lily Tomlin_
 
 ### About
 We will attempt to build the largest open data JSON files covering different aspects of the country. Each sector will have a JSON file, and will grow over time.
