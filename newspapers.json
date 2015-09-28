@@ -10,12 +10,12 @@
   },
   "data": {
     "sub-categories": [
-      "newspapers/daily.json",
-      "newspapers/weekly.json",
-      "newspapers/bi-weekly.json",
-      "newspapers/monthly.json",
-      "newspapers/yearly.json",
-      "newspapers/others.json"
+      "newspapers/daily-papers.json",
+      "newspapers/weekly-papers.json",
+      "newspapers/bi-weekly-papers.json",
+      "newspapers/monthly-papers.json",
+      "newspapers/yearly-papers.json",
+      "newspapers/other-papers.json"
     ]
   }
 }
