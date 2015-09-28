@@ -4,7 +4,7 @@
   },
   "data": {
     "newspapers" : {
-      "dailies": [
+      "daily-papers": [
         {
           "name": "Kantipur National Daily",
           "name/ne": "कान्तिपुर राष्ट्रिय दैनिक",
