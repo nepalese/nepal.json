@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "manifest" : {
+    "project" : "github.com/nepalese/nepal.json",
+    "sub-project": "newspapers.json",
+    "title": "Registered Newspapers in Nepal",
+    "type": "category",
+    "license": "MIT License",
+    "title": " in Nepal",
+  },
+  "data": {
+    "sub-categories": [
+      "newspapers/daily.json",
+      "newspapers/weekly.json",
+      "newspapers/bi-weekly.json",
+      "newspapers/monthly.json",
+      "newspapers/yearly.json",
+      "newspapers/others.json"
+    ]
+  }
+}
