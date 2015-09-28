@@ -12,18 +12,21 @@ We will attempt to build the largest open data JSON files covering different asp
 
 ### Generic Formation
 Each file will contain three sections as follows: 
+
 #### Version
 - semantic version of the content in the data file
 - can be both scalar of object
 - if scalar will follow X.Y.Z format
-- if object will contain 
+- if object will contain  
         {
             code: "X.Y.Z",
             name: "<some-version-name>",
             description: "<some-version-description>"
         }
+
 #### Manifest
 Manifest will describe meta parameters related to the data file.
+
 #### Data
 Everything relevant goes inside the data section.
 
