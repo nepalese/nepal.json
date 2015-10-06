@@ -10,6 +10,8 @@ We will attempt to build the largest open data JSON files covering different asp
 ## Getting Started
 [__index.json__](index.json) is the first file you should start with traversing. It consists of the overall map of categories, category files and their respective sub categories.
 
+__Root Directory__ will always contain category files, and the tree file. If any category doesn't require subcategories, or could be represented as data file itself, in such case the data file should follow naming as `/plural-category/plural-category.json` and `/plural-category.json`. 
+
 ## Generic Formation
 Each file will contain three sections as follows:
 
