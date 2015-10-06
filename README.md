@@ -17,7 +17,7 @@ Each file will contain three sections as follows:
 - semantic version of the content in the data file
 - can be both scalar of object
 - if scalar, version will follow X.Y.Z format
-- if object version will contain at-least following structure  
+- if object version will contain at-least following structure
 
     ````
         {
