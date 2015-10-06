@@ -1,2 +1,15 @@
 {
+  "version": "{{{major.minor.patch}}",
+  "manifest": {
+  },
+  "data": {
+    "{{category-parents-each-navigating-to-this-page}}" : {
+      "{{file-name-without-extension}}": [
+        {
+          "key": "value",
+		  "key/lang": "value/lang"
+        }
+      ]
+    }
+  }
 }

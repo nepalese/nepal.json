@@ -1,2 +1,15 @@
 {
+  "version": "{{major.minor.patch}}",
+  "manifest" : {
+    "project" : "github.com/nepalese/nepal.json",
+    "sub-project": "{{full-path-of-file-relative-to-this-project}}",
+    "title": "{{explain-this-file-in-few-words}}",
+    "type": "category",
+    "license": "MIT License",
+  },
+  "data": {
+    "sub-categories": [
+      "{{category-folder}}/{{subcategory-or-data-file}}"
+    ]
+  }
 }
